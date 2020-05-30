@@ -1,0 +1,17 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>toon1.png</file>
+    <file>toon2.png</file>
+    <file>wood1.jpg</file>
+    <file>img2.jpg</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>bg.png</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>adminimage.jpg</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>img2.jpg</file>
+  </qresource>
+</RCC>
