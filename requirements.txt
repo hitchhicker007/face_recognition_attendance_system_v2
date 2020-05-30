@@ -10,7 +10,7 @@ Click==7.0
 colorama==0.4.3
 cycler==0.10.0
 Cython==0.29.14
-Django==3.0.2
+Django==3.0.3
 dlib==19.8.1
 dnspython==1.16.0
 docutils==0.16
