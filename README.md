@@ -19,7 +19,7 @@ python attendanceGUI.py
 
 [![Relative date](https://img.shields.io/date/1577392258?color=important&label=started&logo=github)](https://github.com/hitchhicker007/) [![Maintenance](https://img.shields.io/maintenance/yes/2020?color=green&logo=github)](https://github.com/hitchhicker007/)
 
-| <img src="http://hitchhicker.tech/images/ic2.jpg" width="140"> |
+| <img src="https://avatars.githubusercontent.com/u/51155358?v=4" width="140"> |
 | :----------------------------------------------------------: |
 | **[Parth Panchal](https://www.linkedin.com/in/parthpanchal8401/)**  |
 
